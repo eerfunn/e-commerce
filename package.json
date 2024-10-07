@@ -1,0 +1,17 @@
+{
+  "name": "e-commerce",
+  "version": "1.0.0",
+  "description": "A simple e-commerce.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "e-commerce",
+    "shopping",
+    "online",
+    "shopping"
+  ],
+  "author": "Irfan N",
+  "license": "ISC"
+}
